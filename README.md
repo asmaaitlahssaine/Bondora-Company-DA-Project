@@ -60,24 +60,6 @@ Interactive Power BI dashboards are available for detailed visualization:
 
 3. Use Power BI to open `.pbix` or `.pbit` files for interactive exploration.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can save this as `README.md` and add it to your GitHub repository:
-
-1. Create a new file in your project folder:
-   
-   ```bash
-   touch README.md
-   ```
-
-2. Open the file in a text editor and paste the content above.
-
-3. Add the file to your repository and push it to GitHub:
-
-   ```bash
    git add README.md
    git commit -m "Add README file"
    git push origin main
