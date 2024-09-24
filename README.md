@@ -28,11 +28,12 @@ The following Jupyter Notebooks and reports are part of the project:
   - `Loan Performance and Risk Analysis Report.pdf`: Comprehensive performance and risk analysis report.
   - `P2P_Lending_Report.pdf`: A report on peer-to-peer lending performance.
 
-## Power BI Dashboards
-Interactive Power BI dashboards are available for detailed visualization:
+## Power BI and Tableau Dashboards
+Interactive dashboards are available for detailed visualization:
 - **Loan Approval Dashboard**: Visualizes loan approval rates and trends (`Loan_Approval_Dashboard.pbit`).
 - **Loan Default Risk Dashboard**: Provides insights into the risk of loan defaults (`Loan Default Risk Analysis.pbix`).
 - **Loan Performance and Risk Analysis Dashboard**: Comprehensive performance and risk analysis dashboard (`Loan Performance and Risk Analysis Dashboard.pbix`).
+- **Career development analysis Dashboard**
 
 ## Technologies Used
 - **Jupyter Notebook**: For data preprocessing and analysis.
@@ -40,7 +41,8 @@ Interactive Power BI dashboards are available for detailed visualization:
   - Pandas: For data manipulation and preprocessing.
   - NumPy: For numerical operations.
   - Matplotlib and Seaborn: For basic data visualization.
-- **Power BI**: For creating interactive dashboards and data visualization.
+- **Power BI** & **Tableau**: For creating interactive dashboards and data visualization.
+- 
 
 ## Setup Instructions
 1. Clone this repository to your local machine:
