@@ -1,3 +1,4 @@
+
 # Bondora Company Data Analysis Project
 
 This repository contains the data analysis project for Bondora, focusing on various loan performance metrics, risk analysis, and default rate assessment. The project includes data preprocessing, visualization, and Power BI dashboards for interactive data exploration.
